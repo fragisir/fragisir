@@ -29,7 +29,7 @@ I'm a passionate **Frontend Developer** who loves building beautiful and respons
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/your-link/)
 - 🌐 [Portfolio](https://yourportfolio.com) *(if you have one)*
-- 📧 Email: your.email@example.com
+- 📧 Email: Roshanbasnet238@gmail.com
 
 ---
 
