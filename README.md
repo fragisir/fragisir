@@ -55,8 +55,8 @@
 
 ## 🌐 Let's Connect  
 
-- 💼 [LinkedIn]([https://www.linkedin.com/in/roshan-basnet](https://www.linkedin.com/in/asp-dev-9712161b6/))  
-- 🌎 [Portfolio](https://roshan-portfolio.vercel.app)  
+- 💼 [LinkedIn]([https://www.linkedin.com/in/roshan-basnet](https://www.linkedin.com/in/asp-dev))  
+- 🌎 [Portfolio](https://roshanbasnet07.com.np)  
 - 📧 **Email:** Roshanbasnet238@gmail.com  
 
 ---
