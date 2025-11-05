@@ -41,22 +41,22 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="Roshan's GitHub Stats" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" alt="Top Languages" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=fragisir&show_icons=true&theme=tokyonight" alt="Roshan's GitHub Stats" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fragisir&layout=compact&theme=tokyonight" alt="Top Languages" height="160px"/>
 </p>
 
 ---
 
 ## 🐍 Contribution Snake  
 
-![Snake animation](https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/fragisir/fragisir/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
 ## 🌐 Let's Connect  
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link/)  
-- 🌎 [Portfolio](https://your-portfolio-link.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/roshan-basnet)  
+- 🌎 [Portfolio](https://roshan-portfolio.vercel.app)  
 - 📧 **Email:** Roshanbasnet238@gmail.com  
 
 ---
